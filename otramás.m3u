@@ -1,0 +1,105 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing HD (Italia)
+#EXTVLCOPT:network-caching=1000
+http://176.65.146.203:5003/play/a07t
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Bogotá)
+https://26653.live.streamtheworld.com/CANDELAESTEREOAAC/HLS/22438031-45a9-4121-a140-afe3e058366d/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Cali)
+https://24383.live.streamtheworld.com/CANDELA_CALIAAC/HLS/5011893e-455e-4166-af45-2db23079dd01/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Cartago)
+https://27583.live.streamtheworld.com/CANDELA_CARTAGOAAC/HLS/142ee488-101e-4ceb-9296-83a696c4efc0/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Casanare)
+https://cloudoledgo.com:8026/stream
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Deportes_2026_logo.png", Caracol Deportes
+https://17993.live.streamtheworld.com/CARACOL_DEPORTESAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=cd2b03cd-fbe0-49d4-b20a-70c2b3708a05
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Barranquilla)
+https://18493.live.streamtheworld.com/CR_BARRANQAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=50b0ff41-9b2b-4e08-e206-1d63bb0c5ec2
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Bucaramanga)
+https://26573.live.streamtheworld.com/CR_BUCARAMAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=a3a943ad-24fe-42c6-f333-6db99962dc7a
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Bogotá)
+https://26673.live.streamtheworld.com/CARACOL_RADIOAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=2f188d6e-d4d5-455d-e606-2cce6ecbd0c5
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Medellín)
+https://26643.live.streamtheworld.com/CR_MEDELLINAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=544c962c-4159-4e93-cc13-ca5065c999d1
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Cali)
+https://27383.live.streamtheworld.com/CR_CALIAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=d6b0e11b-0981-4508-b706-4ad7fb6c997b
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Ibagué)
+https://26653.live.streamtheworld.com/CR_IBAGUEAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Tunja)
+https://23033.live.streamtheworld.com/CR_TUNJAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=cf714d81-726f-4848-ad6b-971d8736deb1
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Manizales)
+https://27393.live.streamtheworld.com/CR_AM_MANIZALESAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=46cdb79b-7065-48fe-c0d1-ac9b8d41f06d
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Popayán)
+https://19213.live.streamtheworld.com/CR_POPAYANAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Monteria)
+https://24413.live.streamtheworld.com/CR_MONTERIAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Neiva)
+https://26653.live.streamtheworld.com/CR_NEIVAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Armenia)
+https://27413.live.streamtheworld.com/CR_AM_ARMENIAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=1794d0c6-767f-4195-fe31-8f6cc6a8e834
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1AAC.aac
+#EXTINF:0group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2AAC.aac
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
+#EXTINF:0 group-title="Radio", COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.aac
+#EXTINF:0 group-title="Radio", COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.aac
+#EXTINF:0 group-title="Radio", COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:0 group-title="Radio", COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
+#EXTINF:0 group-title="Radio", Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
+#EXTINF:0 group-title="Radio", Onda Cero
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+#EXTINF:0 group-title="Radio", Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:0 group-title="Radio", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:0 group-title="Radio", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:0 group-title="Radio", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
+#EXTINF:0 group-title="Radio", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:0 group-title="Radio", Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:0 group-title="Radio", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:0 group-title="Radio", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:0 group-title="Radio", Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+#EXTINF:0 group-title="Radio", Canal Sur Radio
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:0 group-title="Radio", Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
+#EXTINF:0 group-title="Radio", Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:0 group-title="Radio", Radio María
+https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3
+#EXTINF:0 group-title="Radio", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
+#EXTINF:0 group-title="Radio", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:0 group-title="Radio", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:0 group-title="Radio", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:0 group-title="Radio", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
