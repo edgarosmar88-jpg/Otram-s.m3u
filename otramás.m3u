@@ -229,3 +229,122 @@ http://179.63.6.12:9000/play/a02n
 #EXTINF:0 group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.192.238:8000/play/a2dk
+#EXTINF:0 group-title="Deportes", FOX México
+#EXTVLCOPT:network-caching=1000
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLLQ0O2815Rrc5HgCSxohxS/m3u8
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win + Fútbol
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a02r
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+
+#EXTVLCOPT:network-caching=1000
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HDMI
+#EXTVLCOPT:network-caching=1000
+http://191.97.6.30:8000/play/a0ic
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0ef
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png", TNT Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+#EXTINF:0 tvg-id="Cablenoticias.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Cable_Noticias_logo.svg.webp", CABLE NOTICIAS HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a028
+#EXTINF:0 tvg-id="Blu Radio" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU RADIO NACIONAL (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU BARRANQUILLA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BARRANQUILLA_ADP.aac?dist= blu_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BUCARAMANGA_ADP.aac
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP.aac?dist= blu_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac?dist= blu_web
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01w
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00q
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Televisión
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0pt
+#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional HD
+#EXTVLCOPT:network-caching=1000
+http://45.177.21.6:9000/play/a02b
+#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional
+#EXTVLCOPT:network-caching=1000
+http://200.125.170.123:8000/play/a0er
+#EXTINF:0 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA SD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01t
+#EXTINF:0 tvg-id="Teleantioquia HD.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a032
+#EXTINF:0 group-title="Televisión Regional", TELEISLAS HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a037
+#EXTINF:0 tvg-id="Telemedellín HD.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a008
+#EXTINF:0 tvg-id="Telemedellín.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD (60fps)
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01y
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.195:8000/play/a0rv
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ev
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE FHD
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/TELECARIBE
+#EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribePlus2023.webp", TELECARIBE PLUS
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ab
+#EXTINF:0 tvg-id="Telecafe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telecafe-lam.png", TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0de
+#EXTINF:0 group-title="Televisión Regional", Canal 9 Local
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a09w
+#EXTINF:0 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:0 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d7
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv (Canada)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"df9bd29587553cac992aefa300e59188":"04b671de49a06d052d31929402838914"}
+https://live-d-02-rogent-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv TDT (Inestable)
+#EXTVLCOPT:network-caching=1000
+http://190.14.248.42:8000/play/a00k
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00z
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0e6
