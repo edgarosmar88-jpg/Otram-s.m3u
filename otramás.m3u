@@ -348,3 +348,110 @@ http://181.225.190.242:8000/play/a00z
 #EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a0e6
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00z
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0e6
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.85.59:2500/play/a01z
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD TDT
+#EXTVLCOPT:network-caching=1000
+http://138.117.110.151:8000/play/a0gf
+#EXTINF:0 tvg-id="El Tiempo Television.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElTiempoTelevision.webp", EL TIEMPO TELEVISIÓN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.71:18000/play/a003
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe SD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://190.60.44.98:9000/play/a04f
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca016
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe Internacional
+#EXTVLCOPT:network-caching=1000
+http://107.152.39.199:8030/hls/canal13.m3u8
+#EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ec
+#EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN HD
+#EXTVLCOPT:network-caching=1000
+http://45.177.21.6:9000/play/a036
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a02n
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD CC
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a09z
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", MUNDIAL RCN
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6924e72e1c8279cc99155672.m3u8?uid=voLHow2e3TcSlvnLPXBjDIrWNH1LH6td&sid=kSMj9Sd5ysRHemzrwlE8ZB0wr11B2JRI&pid=r9qU2kWwy5IE5boUYUqMd6ACStiLIqYi&pid_dvr=OnIgtJl182ncjMs5YtS92AkGoDTQMfzW&an=player-video-ott-rcn&at=web-app&av=v6.0.267&c=69384e5f6f09ec23fc00b12e&ref=https%3A%2F%2Fwww.rcnradio.com%2F&res=976x543&without_cookies=false&listenerid=&dnt=true&access_token=2MakLbVDDwm2TfjvghF5IP3DX9uDSQrZNlTRZxMnWIV449h2LwkFh36I2OZ36iIJ78eyMtYS9D8&CMCD=cid%3D%226924e72e1c8279cc99155672%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22r9qU2kWwy5IE5boUYUqMd6ACStiLIqYi%22%2Csu
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0ds
+#EXTINF:0 tvg-id="RCN.HDTV.2.(RCNHD2).co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest/scale-to-width-down/220?cb=20230623165814", RCN HD2
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a02o
+#EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a057
+#EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.156.46:8000/play/a057
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.156.46:8000/play/a059
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01i
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a06l
+#EXTINF:0 tvg-id="NUESTRA TELE.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Internacional)
+#EXTVLCOPT:network-caching=1000
+http://181.79.87.91:9500/play/a0b5
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más
+#EXTVLCOPT:network-caching=1000
+http://200.59.188.3:8000/play/a0ab
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más HD
+#EXTVLCOPT:network-caching=1000
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="NTN24.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/NTN24_logo.png", NTN24 SD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01h
+#EXTINF:0 tvg-id="Canal 13.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/chile/canal13-cl.png", Canal 13 (Chile)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a006
+#EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA SD
+#EXTVLCOPT:network-caching=1000
+http://186.96.97.166:48001/play/a0al
+#EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA HD
+#EXTVLCOPT:network-caching=1000
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:0 tvg-id="Canal TR3CE.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceColombiaWhite.webp", CANAL TRECE COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.167:18000/play/a069
+#EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceM%253Fs.webp", CANAL TRECE+ COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://179.1.139.84:8000/play/a04b
+#EXTINF:0 tvg-id="VTV.ve" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Venezolana_de_Televisi%C3%B3n_2018.svg.webp", VTV HD
+#EXTVLCOPT:network-caching=1000
+http://38.41.8.1:8000/play/a0xq
+#EXTINF:0 tvg-id="VENEVISION.ve" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/venevision.png", VENEVISION HD
+#EXTVLCOPT:network-caching=1000
+http://200.59.188.3:8000/play/a0zg
+#EXTINF:0 tvg-id="TELEVID.co" group-title="Santa Misa" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/televid-logo-2025-1024x1002.png", TELEVID HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a02o
+#EXTINF:-1 group-title="Televisión Abierta" tvg-id="CityTVCarlsbad.us@SD" tvg-logo="https://i.imgur.com/G6h8efT.png", Carlsbad City TV Channel (Carlsbad CA) (720p)
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+#EXTINF:0 tvg-id="Deportes RCN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Deportes_RCN_logo.png", Deportes RCN (Radio)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/69a9e92dcc2b7cec9dcad2c3/chunks.m3u8?CMCD=cid%3D%2269a9e92dcc2b7cec9dcad2c3%22%2Cmtp%3D3400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225QfvHAH8xI5AjjnoeRM1Y8QuuSYFfmTY%22&aid=6271a4d5d206c3172f3c9a9c&c=69384e5f6f09ec23fc00b12e&cP=128000&dnt=true&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ot=-6RMbA7phpjIXRyIc87HRQ&ote=1773540475557&pid=5QfvHAH8xI5AjjnoeRM1Y8QuuSYFfmTY&proto=https&pz=us&ref=www.rcnradio.com&sid=DSTBW4rNrXZPXMkswn6BTKaQzzYazH50&uid=FDMh3wtY2hsUGJh6RJi3yqySnVni5hch
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cc765194ef808b9f59618/playlist.m3u8?listeningSessionID=696c5c821055f2b0_123605_sGiOxsh6_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000004IpN&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml&sid=VN8lyBJF03upRswPR6dp9wrieZ0AnpVl&pid=HlpUUHIv8y5xxzRHrRWwIqBlmwkMR115&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cc765194ef808b9f59618%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22HlpUUHIv8y5xxzRHrRWwIqBlmwkMR115%22&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1768919255867&ot=g4uIJ4Cn6WEGBK2P8wreVg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cc765194ef808b9f59618&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml
+#EXTINF:0 tvg-id="La FM Bogotá.co" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM BOGOTÁ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8?_=1763581005153&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=FBjtRjNO7aKBZAAioZcW1a7TKqjJPJ9L&sid=c4lBtlNuu7FHhVK7rBbZj6XbRJDI9aNl&pid=taI1YJEqPv11IcWFzpm8X5xKgW6kE80K&an=demo-rcn-app-web&at=web-app&av=v1.0.39&sc=0&ref=www.rcnradio.com&res=1680x1050&CMCD=cid%3D%22632c9b23d1dcd7027f32f7fe%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22taI1YJEqPv11IcWFzpm8X5xKgW6kE80K%22%2Csu
