@@ -789,3 +789,134 @@ http://38.87.224.21:2220/play/a031
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png", Nicktoons (Bulgaria)
 #EXTVLCOPT:network-caching=1000
 http://193.235.65.225:9983/stream/channelid/1253454710?profile=pass
+#EXTINF:0 tvg-id="Multipremier.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Multipremier_logo_2015.png", Multipremier HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a016
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Animal Planet HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/ANIMAL_PLANET
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Discovery Turbo (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a022
+#EXTINF:0 tvg-id="Investigation Discovery HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-id-lat.png", Discovery ID (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02z
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", A&E HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/AE
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History Channel (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a00i
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History2 (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a00j
+#EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.201:8000/play/a0kd
+#EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL SD
+#EXTVLCOPT:network-caching=1000
+http://38.93.48.66:7782/play/a08p
+#EXTINF:0 tvg-id="NAT GEO HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.80.230.124:8000/play/a07i
+#EXTINF:0 tvg-id="NAT GEO HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0c7
+#EXTINF:0 tvg-id="National Geographic.mx" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0cl
+#EXTINF:0 tvg-id="Discovery Channel.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.84.78:8910/play/a00y
+#EXTINF:0 tvg-id="Discovery Channel.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Colombia) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a00n
+#EXTINF:0 tvg-id="Discovery Channel.cl" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Chile)
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a00r
+#EXTINF:0 group-title="Documentales", TVAGRO HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a03l
+#EXTINF:0 group-title="Documentales", EL MUNDO DEL CAMPO
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a02j
+#EXTINF:0 tvg-id="Discovery Home and Health.co" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02y
+#EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Chile y Perú)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a00g
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Subfeed Caribe)
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/live/Mrpercel/wPmDRknOaL/120269.ts
+#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0an
+#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
+#EXTVLCOPT:network-caching=1000
+http://200.125.170.123:8000/play/a00j
+#EXTINF:0 tvg-id="Discovery Kids.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
+#EXTVLCOPT:network-caching=1000
+http://200.229.190.189:8002/play/a011
+#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a034
+#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SAP (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01s
+#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch75
+#EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"694fa2e355b31ac2c52d0a56d3d8da59":"0d7eff2e4dc61d48489555068b0db46a"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/ADULTSWIM-HD/default.mpd
+#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Latinoamérica) HD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a036
+#EXTINF:0 tvg-id="CARTOONITO DTT.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Italia)
+#EXTVLCOPT:network-caching=1000
+http://51.154.17.178/play/a0ea
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) MPEG
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a020
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a01h
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) (Opción 1)
+#EXTVLCOPT:network-caching=1000
+http://179.1.24.58:8000/play/a033
+#EXTINF:24 tvg-id="Cartoon Network.ro" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Rumania)
+#EXTVLCOPT:network-caching=1000
+https://glb.bozztv.com/glb/gcntv-cartoonnetwork/index.m3u8
+#EXTINF:0 tvg-id="Cartoon Network.bg" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Bulgaria)
+#EXTVLCOPT:network-caching=1000
+http://213.91.179.28:8000/play/a08g
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Arabia)
+#EXTVLCOPT:network-caching=1000
+http://149.100.11.252:8000/play/a056
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Ukraine)
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.219:9105/play/a00h
+#EXTINF:0 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Central Europe) Hungarian
+#EXTVLCOPT:network-caching=1000
+http://169.150.223.25/CartoonNetwork/index.m3u8
+#EXTINF:0 tvg-id="Cartoon Network Canada - East.ca" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Canada)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ef57f7f3e8cf0efe4f3d5772a7cbb35":"0ac6d617095fbe0ca7f4c9ae72fa5f51"}
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+#EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Cartoons
+#EXTVLCOPT:network-caching=1000
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+#EXTINF:0 tvg-id="Boing.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png", Boing (España)
+#EXTVLCOPT:network-caching=1000
+http://149.100.19.246:9981/stream/channelid/1383823659?profile=pass
+#EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing (Italia)
+#EXTVLCOPT:network-caching=1000
+http://51.154.17.178/play/a0dp
