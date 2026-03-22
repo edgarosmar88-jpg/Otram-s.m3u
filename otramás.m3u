@@ -646,3 +646,146 @@ http://181.118.150.27:8000/play/a01h
 #EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a01h
+#EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a063
+#EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional) Español
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a01h
+#EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01h
+#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" group-title="Películas y Series" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png", Star Channel (Argentina)
+https://ori1.relay.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+#EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a08v
+#EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b482bd74b9fccb810bf94a3b3732c0f9":"9207af2617ac4df3ee6860719a53eb8b"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+#EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0aj
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Andes)
+#EXTVLCOPT:network-caching=1000
+http://170.239.205.81:30000/play/a011
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.174:8015/play/a04j
+#EXTINF:0 tvg-id="HBO PLUS.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO + HD
+#EXTVLCOPT:network-caching=1000
+http://177.10.184.193:8000/play/a031
+#EXTINF:0 tvg-id="HBO Plus Panregional HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO +
+#EXTVLCOPT:network-caching=1000
+http://38.183.114.220:8000/play/a0s1
+#EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://38.187.3.110:8000/play/a07z
+#EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.160.12.200:8008/play/017
+#EXTINF:0 tvg-id="HBO HD.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (México)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a054
+#EXTINF:0 tvg-id="HBO 2.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2 (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.144:8000/play/a0b2
+#EXTINF:0 tvg-id="HBO 2.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a055
+#EXTINF:-1 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/hbo3-cz.png", HBO3 HD (Ukraine)
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.219:9115/play/a007
+#EXTINF:0 tvg-id="HBO Xtreme.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-xtreme-lam.png", HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a058
+#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a057
+#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://201.219.223.99:45000/play/a011
+#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a033
+#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/SPACE
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" group-title="Películas y Series" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png", Warner HD (Argentina=
+https://ori1.relay.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner English (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.90.22.42:5280/play/a0d6
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://186.148.175.138:8000/play/a05o
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Honduras) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a08w
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Honduras)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a08j
+#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Chile)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0cm
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01r
+#EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0cf
+#EXTINF:-1 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 MX
+#EXTVLCOPT:network-caching=1000
+http://45.167.253.246:8010/play/a00e
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0ll
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0fl
+#EXTINF:0 tvg-id="TYC SPORTS.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIc8jwCgWoE3b5Tu4IBELzI/m3u8
+#EXTINF:0 tvg-id="TyC Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Latinoamérica)
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.128:12543/play/a04n
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (México) SD
+#EXTVLCOPT:network-caching=1000
+http://38.49.128.38:8000/play/a0kw
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
+#EXTVLCOPT:network-caching=1000
+http://176.116.105.82/Nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a096
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nick SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a0d8
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.21:2220/play/a032
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.170.40.11:8000/play/a00d
+#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0am
+#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"294848a1c20273b5546c204b117fd7fe":"47b4a3e3b2d5bbd54143a6af43268bbd"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
+#EXTINF:0 tvg-id="Nick Jr..co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick Jr. SD
+#EXTVLCOPT:network-caching=1000
+http://200.219.40.1:8000/play/a06u
+#EXTINF:0 tvg-id="Nick Jr..co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick Jr. HD
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.21:2220/play/a031
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png", Nicktoons (Bulgaria)
+#EXTVLCOPT:network-caching=1000
+http://193.235.65.225:9983/stream/channelid/1253454710?profile=pass
