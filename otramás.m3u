@@ -103,3 +103,129 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
 #EXTINF:0 group-title="Radio", LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a009
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.83.9.222:8000/play/ca065
+#EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
+#EXTVLCOPT:network-caching=1000
+http://15.235.9.200:14951/
+#EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo 2
+#EXTVLCOPT:network-caching=1000
+http://15.235.9.200:14950/
+#EXTINF:0 tvg-id="Cartoon Network.br" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Brazil)
+#EXTVLCOPT:network-caching=1000
+http://79.127.238.195/592109/Aws0824/71830.ts
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a0dd
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", CN (Colombia) SAP
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a037
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", CN (Colombia Opcion 2)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a032
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a049
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (México)
+http://45.189.62.33:8002/play/a0c0
+#EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional VOD)
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a02q
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a04b
+#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/mpegts
+#EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (West)
+#EXTVLCOPT:network-caching=1000
+http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/868898
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON (Panregional)
+#EXTVLCOPT:network-caching=1000
+https://ori1.relay.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.195:8000/play/a0w9
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil"tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional) (H264)
+#EXTVLCOPT:network-caching=1000
+http://190.60.53.205:8000/play/a02b
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional ORIGEN)
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a012
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.190.187.183:8080/play/a1db
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CNLA_PAN
+#EXTVLCOPT:network-caching=1000
+http://201.230.101.89:12000/play/a0dt
+#EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a035
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a00o
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a03e
+#EXTINF:0 tvg-id="GOLDEN HD.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-lam.png", GOLDEN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a013
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-edge-lam.png", GOLDEN EDGE HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a014
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-plus-lam.png", GOLDEN PLUS HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://45.177.21.6:9000/play/a01w
+#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a06z
+#EXTINF:0 tvg-id="TN.ar" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/TN_todo_noticias_logo.svg.png", TN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+#EXTINF:0 group-title="Noticias", Chilevisión HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://38.250.127.17:9800/play/a05h
+#EXTINF:0 tvg-id=Zoom.co" group-title="Educación", Zoom TV
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02p
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
+#EXTVLCOPT:network-caching=1000
+https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports
+#EXTVLCOPT:network-caching=1000
+http://179.63.6.12:9000/play/a01k
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Argentina
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.198.105.69:8111/play/a279
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Uruguay Premium
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.67:8000/play/a066
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Uruguay
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.67:8000/play/a0bm
+#EXTINF:0 group-title="Deportes", Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://179.63.6.12:9000/play/a02n
+#EXTINF:0 group-title="Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
